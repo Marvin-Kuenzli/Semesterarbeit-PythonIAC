@@ -1,3 +1,5 @@
+#Dieses File wurde Komplett von ChatGPT geschrieben.
+
 # 🖥️ Python Proxmox VM Automatisierung
 
 Dieses Projekt wurde im Rahmen meiner Semesterarbeit erstellt.  
